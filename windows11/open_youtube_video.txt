@@ -4,7 +4,7 @@ REM Version: 1.0
 DELAY 500
 GUI r
 DELAY 500
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+STRING https://www.youtube.com/watch?v=J3TcUA5jE6o&list=RDJ3TcUA5jE6o&start_radio=1
 ENTER
 DELAY 1000
 F11
